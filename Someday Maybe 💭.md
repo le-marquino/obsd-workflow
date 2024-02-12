@@ -13,7 +13,7 @@ share: false
 # Someday Maybe 💭
 
 ## Inbox
-
+- REsolver algo no futuro ➕ 2024-02-11
 ## Area 1
 
 ## Area 2
