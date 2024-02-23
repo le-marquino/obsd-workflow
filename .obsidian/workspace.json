@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-Templates/Filename-Template.md",
+                "file": "Someday Maybe 💭.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-Templates/Filename-Template.md",
+                "file": "Someday Maybe 💭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Templates/Filename-Template.md",
+                "file": "Someday Maybe 💭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-Templates/Filename-Template.md"
+                "file": "Someday Maybe 💭.md"
               }
             }
           },
@@ -155,22 +155,24 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false,
       "obsidian-omnivore:Omnivore": false,
       "templater-obsidian:Templater": false,
       "cmdr:Import from Todoist": false,
-      "cmdr:Create Something": false
+      "cmdr:Create Something": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "648420b384bc6013",
   "lastOpenFiles": [
-    "0-Inbox/Tryout Projeto 1.md",
-    "2-Areas/Areas.md",
-    "Journal 2024 📔.md",
-    "Untitled",
+    "README.md",
     "Passions Backlog 🎮.md",
-    "Someday Maybe 💭.md",
+    "Journal 2024 📔.md",
+    "0-Inbox/Tryout Projeto 1.md",
     "-Daily-Notes/2024-02-11.md",
+    "2-Areas/Areas.md",
+    "Someday Maybe 💭.md",
+    "5-Templates/Filename-Template.md",
+    "Untitled",
     "-Daily-Notes/Início da Exploração do Setup.md",
     "5-Templates/Daily-Notes.md",
     "5-Templates/Yearly-Notes.md",
@@ -178,8 +180,6 @@
     "5-Templates/Untitled.md",
     "5-Templates/Quarterly-Notes.md",
     "5-Templates/Monthly-Notes.md",
-    "5-Templates/Filename-Template.md",
-    "5-Templates/Areas.md",
-    "README.md"
+    "5-Templates/Areas.md"
   ]
 }
